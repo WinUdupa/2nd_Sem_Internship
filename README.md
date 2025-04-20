@@ -1,4 +1,4 @@
-# 2nd Semester Internship Projects
+# 2nd Semester Internship Project
 
 ## Overview
 This repository is a curated collection of tasks and mini-projects completed during a 2nd-semester internship. It focuses on foundational web development skills, including JavaScript, DOM manipulation, and form validation, showcasing practical applications through small, functional projects.
